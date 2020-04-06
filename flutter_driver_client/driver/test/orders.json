@@ -1,0 +1,65 @@
+[
+{
+"orderType": "pickup",
+"etdTime":  "2019-11-05 09:26:34",
+"etaTime": "",
+"orderID": "0000000001",
+"deliverAddress": "",
+"pickupAddress": "pickupAddress:01-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"orderStatus": "0"
+},
+{
+"orderType": "deliver",
+"etdTime":  "2019-11-05 10:26:34",
+"etaTime": "",
+"orderID": "0000000002",
+"deliverAddress": "deliverAddress:02-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"pickupAddress": "pickupAddress:02-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"orderStatus": "0"
+},
+{
+"orderType": "deliver",
+"etdTime":  "2019-11-05 11:26:34",
+"etaTime": "",
+"orderID": "0000000003",
+"deliverAddress": "deliverAddress:03-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"pickupAddress": "pickupAddress:03-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"orderStatus": "0"
+},
+{
+"orderType": "deliver",
+"etdTime":  "2019-11-05 12:26:34",
+"etaTime": "",
+"orderID": "0000000004",
+"deliverAddress": "deliverAddress:04-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"pickupAddress": "pickupAddress:04-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"orderStatus": "0"
+},
+{
+"orderType": "deliver",
+"etdTime":  "2019-11-05 13:26:34",
+"etaTime": "",
+"orderID": "0000000005",
+"deliverAddress": "deliverAddress:05-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"pickupAddress": "pickupAddress:05-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"orderStatus": "0"
+},
+{
+"orderType": "deliver",
+"etdTime":  "2019-11-05 14:26:34",
+"etaTime": "",
+"orderID": "000000006",
+"deliverAddress": "deliverAddress:06-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"pickupAddress": "pickupAddress:06-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"orderStatus": "0"
+},
+{
+"orderType": "deliver",
+"etdTime":  "2019-11-05 15:26:34",
+"etaTime": "",
+"orderID": "0000000007",
+"deliverAddress": "deliverAddress:07-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"pickupAddress": "pickupAddress:07-1000 Gerrard St E, Toronto, ON M4M 3G6",
+"orderStatus": "0"
+}
+]

@@ -1,0 +1,15 @@
+[
+    {
+    "userEmail": "driver@luci.ai",
+    "userInfo": {
+        "userMobile": "4161231234",
+        "name": "luci",
+        "insurance": "12345678912"
+        },
+    "vehicleInfo": {
+        "vehicleMake": "ford",
+        "vehicleModel": "Escape",
+        "vehicleLicensePlate": "6XSU832"
+        }
+    }
+]
